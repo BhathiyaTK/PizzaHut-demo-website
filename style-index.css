@@ -1,0 +1,130 @@
+.navbar{
+  position: ;
+}
+
+
+.nav-link:hover, .nav-link:focus {
+  background-color:#f43841;
+  border: 0px;
+}
+
+ .para{
+    text-align: center;
+    font-size: 13px;
+    padding: 0px;
+    color: white;
+ }
+ .para a{
+    color: white;
+    font-size: 15px;
+ }
+ .para a:hover{
+    color: white;
+    text-decoration: underline;
+ }
+ .form-inline1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+ }
+.form-inline1 .form-check {
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .form-inline1 label {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-bottom: 0;
+  }
+  .form-inline1 .form-group {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 0;
+  }
+  .form-inline1 .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    
+  }
+  .form-inline1 .form-control-plaintext {
+    display: inline-block;
+  }
+  .form-inline1 .input-group {
+    width: auto;
+  }
+  .form-inline1 .form-check {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: auto;
+    padding-left: 0;
+  }
+  .form-inline1 .form-check-input {
+    position: relative;
+    margin-top: 0;
+    margin-right: 0.25rem;
+    margin-left: 0;
+  }
+  .form-inline .custom-control {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .form-inline1 .custom-control-label {
+    margin-bottom: 0;
+  }
+  .card-image-top1{
+    width: 100%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+  }
+  .career{
+    color: #b7b5b3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .col-md-3 img{
+    padding: 0px 0px 5px 0px;
+    text-align: right;
+  }
+  .col-md-2, .col-md-5, .col-md-10, .col-md-4, .col-md-8, .col-md-7{
+    padding: 0px 0px 0px 5px;
+    text-align: center;
+  }
+  
