@@ -1,0 +1,44 @@
+.nav-link:hover{
+  text-decoration: none;
+  color: white;
+  background-color:#f43841;
+}
+.navbar-nav li a:hover {
+  text-decoration: none;
+  color: white;
+  background-color:#f43841;
+}
+.career{
+  color: white;
+  padding-bottom: 20px;
+}
+.btn-success{
+  color: white;
+}
+.btn-outline-success{
+  color: black;
+}
+.badge-notify{
+  background:red;
+  position:relative;
+  top: -20px;
+  right: 10px;
+}
+.my-cart-icon-affix {
+  position: fixed;
+  z-index: 999;
+}
+
+.badge-notify{
+  background:red;
+  position:relative;
+  top: -20px;
+  right: 10px;
+}
+.my-cart-icon-affix {
+  position: fixed;
+  z-index: 999;
+}
+#inputState option, #inputInquiryType option{
+  color: black;
+}
